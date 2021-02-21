@@ -1,0 +1,4 @@
+#Agar folder-folder ini tidak akan di simpan ke repository di github
+node_modules/
+.env
+
